@@ -4,9 +4,9 @@
 Soy **Ingeniero Informático** y **Analista Programador Junior** de Chile. Me apasiona la tecnología, soy autodidacta y me enfoco en agilizar flujos de trabajo mediante el desarrollo y la automatización.
 
 - 🔭 Actualmente trabajo en **Adipa** automatizando procesos y desarrollando con **Laravel & PHP**.
-- 🌱 Estoy aprendiendo sobre **Prompt Engineering** y profundizando en **N8N**.
+- 🌱 Estoy aprendiendo sobre **automatizaciones** y profundizando en **N8N** y **Pyhton**.
 - 🎓 Titulado de Ingeniería en Informática (IP Santo Tomás).
-- ⚡ **Dato curioso:** Me encanta buscar nuevas tecnologías para aportar valor (y automatizar las tareas aburridas).
+- ⚡ Me encanta buscar nuevas tecnologías para aportar valor (y automatizar las tareas aburridas).
 
 ### 🛠️ Tech Stack
 
